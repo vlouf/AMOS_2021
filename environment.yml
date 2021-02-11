@@ -2,7 +2,9 @@ name: amos-radar
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python>=3.7
+  - tqdm
+  - seaborn
   - numpy
   - matplotlib
   - pandas
