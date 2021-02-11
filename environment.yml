@@ -1,0 +1,13 @@
+name: amos-radar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - xarray
+  - arm_pyart
+  - netCDF4
+  - cartopy
+  - h5py
