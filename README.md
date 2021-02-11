@@ -1,6 +1,6 @@
 # AMOS 2021 Workshop - How to use weather radar for climate science
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vlouf/AMOS_2021/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vlouf/AMOS_2021/main)
 
 Welcome to the AMOS 2021 short course on climate applications of weather radar.
 
