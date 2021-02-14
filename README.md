@@ -1,8 +1,8 @@
-# AMOS 2021 Workshop - How to use weather radar for climate science
+# AMOS 2021 Radar Workshop - Dive into the AURA: Australian Radar Archive
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vlouf/AMOS_2021/main)
 
-Welcome to the AMOS 2021 short course on climate applications of weather radar.
+Welcome to the AMOS 2021 Radar Workshop on the Australian Radar Archive.
 
 __To run this code locally on your desktop/laptop (after the workshop)__
 

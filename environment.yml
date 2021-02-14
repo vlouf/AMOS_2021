@@ -16,3 +16,4 @@ dependencies:
   - seaborn
   - bokeh
   - requests
+  - gdal
