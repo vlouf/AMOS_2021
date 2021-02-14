@@ -14,4 +14,5 @@ dependencies:
   - cartopy
   - h5py
   - seaborn
+  - bokeh
   - requests
